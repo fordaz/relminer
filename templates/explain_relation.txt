@@ -1,0 +1,2 @@
+Given the following relation type "{name}" which means "{description}", generate a fictitious sentence using this relation with this fictitious subject "{subject}" and object "{object}", and provide an explanation why the relation holds. 
+{format_instructions}

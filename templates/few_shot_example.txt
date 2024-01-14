@@ -1,0 +1,3 @@
+text: {example_text}
+relations {example_relations}
+explanation {example_explanation}

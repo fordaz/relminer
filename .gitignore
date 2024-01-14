@@ -1,0 +1,7 @@
+attic.txt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+relminer/__pycache__/
+tests/__pycache__/
+*.py[cod]

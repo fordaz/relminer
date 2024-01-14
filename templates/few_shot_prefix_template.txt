@@ -1,0 +1,1 @@
+Extract relations of the follwing types {relation_types} in the text below and focus on {subject}

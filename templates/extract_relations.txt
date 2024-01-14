@@ -1,0 +1,25 @@
+Extract relations of the follwing types {relation_types} in the text below and focus on {subject}. Here are some examples of the relations:
+
+text 1: Joshua is a Student_Of Geff Hinton.
+relations: [['Joshua', 'Student_Of', 'Geff Hinton']]
+##
+text 2: Jenny Ryan published the Attention is all you need white paper.
+relations [['Jenny Ryan', 'Published', 'Attention is all your need white paper']]
+##
+text 3: Jerry McGuire moved to Miami
+relations [['Jerry McGuire', 'Moved_To', 'Miami']]
+##
+text 4: Jim Ozark has lived at Mountain View
+relations [['Jim Ozark', 'Lived_At', 'Mountain View']]
+##
+text 5: Cassie Kane and Rick Jones are friends of each other
+relations [['Cassie Kane', 'Friend_Of', 'Rick Jones']]
+##
+
+Provide the output in JSON format as shown below:
+{{
+    "relations": ["", "", ""]
+}}
+
+##
+text 6: {input_text}
