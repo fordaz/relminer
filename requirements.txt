@@ -1,7 +1,7 @@
 black
 avro-python3
 fastavro
-langchain==0.0.316
+langchain==0.0.339
 langdetect==1.0.9
 langsmith==0.0.60
 openai==0.28.1
